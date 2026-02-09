@@ -2,10 +2,10 @@
 
 Where real traffic meets network traffic.
 
-## Why this project exists (for employers, recruiters, and developers)
+## Why this project exists
 I built RandomThoughtsInTraffic.com as a production WordPress site focused on technical writing about web fundamentals (HTML, CSS, and JavaScript) with a human voice. It showcases my end-to-end WordPress development and operations work: content strategy, theme customization, plugin integration, performance tuning, and maintainable publishing workflows.
 
-## Highlights (employer and recruiter friendly)
+## Highlights
 - **Content strategy:** I write long-form technical posts that translate complex topics into approachable narratives.
 - **Platform engineering:** I manage WordPress core, caching, and performance-oriented plugin choices.
 - **Web fundamentals:** I cover HTML, CSS, and JavaScript topics with real-world examples.
