@@ -1,0 +1,24 @@
+# RandomThoughtsInTraffic.com ignores
+
+# Secrets and environment-specific config
+/wp-config.php
+/.env
+/.env.*
+
+# Database exports and backups
+/*.sql
+!/u942215055_BodOV.sql
+/*.sql.gz
+
+# User uploads and caches
+/wp-content/uploads/
+/wp-content/cache/
+/wp-content/litespeed/
+/wp-content/upgrade/
+/wp-content/upgrade-temp-backup/
+/wp-content/debug.log
+
+# Local/private artifacts
+/.private/
+/.htaccess.bk
+/.litespeed_conf.dat
